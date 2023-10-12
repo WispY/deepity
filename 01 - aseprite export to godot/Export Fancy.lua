@@ -1,3 +1,12 @@
+-- disclaimer: this is spaghetti
+-- don't use it in your project, just use it to learn some tricks
+--
+-- also please don't give me suggestions on how to improve this
+-- my self-esteem is low and you will hurt me with criticism
+--
+-- PS: I can't spell "criticism" without spellcheck
+
+
 -- number of color shades per color in palette
 local paletteBlockSize = 6
 -- the distance between two dark values, must be < 255 / paletteBlockSize
