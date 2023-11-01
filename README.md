@@ -13,3 +13,7 @@ You can find folders for each episode. Hope you are hungry, cause there is a lot
 #02 - [Changing colors via Godot visual shader](https://youtu.be/HUZXE4tE-e0)
 
 > In today's deepity I talk about creating a color changing shader in Godot with the support from custom Aseprite script. Such shader can be used to add character customization, team colors or reusability of assets in your game.
+
+#X1 - Extra bits: Godot custom splashscreen
+
+> A splashscreen that I came up with for my Godot games, feel free to use it! Maybe drop me a credit in your game credits screen if you can, e.g. "Godot splashscreen by RadiantWisp".
